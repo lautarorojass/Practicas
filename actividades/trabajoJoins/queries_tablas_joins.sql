@@ -15,9 +15,9 @@ select
     dp.cantidad as Cantidad
 from
     clientes c
-    join pedidos p on c.id_cliente = p.id_cliente
-    join detalles_pedido dp on p.id_pedido = dp.id_pedido
-    join productos pr on dp.id_producto = pr.id_producto;
+    inner join pedidos p on c.id_cliente = p.id_cliente
+    inner join detalles_pedido dp on p.id_pedido = dp.id_pedido
+    inner join productos pr on dp.id_producto = pr.id_producto;
 
 -- Ejercicio 3
 -- Mostrar: Cliente, Producto, Cantidad, Precio, Subtotal
@@ -29,9 +29,9 @@ select
     dp.cantidad * pr.precio as Subtotal
 from
     clientes c
-    join pedidos p on c.id_cliente = p.id_cliente
-    join detalles_pedido dp on p.id_pedido = dp.id_pedido
-    join productos pr on dp.id_producto = pr.id_producto;
+    inner join pedidos p on c.id_cliente = p.id_cliente
+    inner join detalles_pedido dp on p.id_pedido = dp.id_pedido
+    inner join productos pr on dp.id_producto = pr.id_producto;
 
 -- Ejercicio 4
 -- Mostrar todos los clientes aunque no tengan pedidos
