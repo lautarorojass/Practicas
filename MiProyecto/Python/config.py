@@ -10,7 +10,7 @@ class ConnectionConfig:
         self.host = os.getenv("DB_HOST")
         self.puerto = os.getenv("DB_PORT")
         self.usuario = os.getenv("DB_USER")
-        self.contraseña = os.getenv("DB_PASSWORD")
+        self.password = os.getenv("DB_PASSWORD")
         self.base_de_datos = os.getenv("DB_DATABASE")
 
         self.validar()
@@ -28,7 +28,7 @@ class ConnectionConfig:
             "DB_HOST": self.host,
             "DB_PORT": self.puerto,
             "DB_USER": self.usuario,
-            "DB_PASSWORD": self.contraseña,
+            "DB_PASSWORD": self.password,
             "DB_DATABASE": self.base_de_datos
         }
 
