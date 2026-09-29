@@ -7,6 +7,6 @@ def test_cargar_variables():
     assert config.nombre == "Mi Base de datos"
     assert config.host == "localhost"
     assert config.puerto == 5432
-    assert config.usuario == "root"
+    assert config.usuario == "admin"
     assert config.password == "123"
     assert config.base_de_datos == "Mi Base"
