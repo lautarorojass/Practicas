@@ -1,4 +1,3 @@
-
 # Sistema de Gestión de un Complejo Turístico
 
 ## 1. Introducción
