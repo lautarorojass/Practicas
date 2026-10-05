@@ -1,0 +1,40 @@
+{
+  "consumos": [
+    {
+      "id_consumo": 1,
+      "id_reserva": 101,
+      "fecha": "2026-10-01T08:30:00",
+      "servicios": [
+        {
+          "id_servicio": 1,
+          "cantidad": 2
+        },
+        {
+          "id_servicio": 3,
+          "cantidad": 1
+        }
+      ],
+      "total": 16000
+    },
+    {
+      "id_consumo": 2,
+      "id_reserva": 102,
+      "fecha": "2026-10-02T19:00:00",
+      "servicios": [
+        {
+          "id_servicio": 2,
+          "cantidad": 1
+        },
+        {
+          "id_servicio": 4,
+          "cantidad": 2
+        },
+        {
+          "id_servicio": 5,
+          "cantidad": 1
+        }
+      ],
+      "total": 31000
+    }
+  ]
+}

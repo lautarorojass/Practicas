@@ -1,0 +1,43 @@
+{
+  "alojamientos": [
+    {
+      "id_alojamiento": 1,
+      "nombre": "Habitación Doble 1",
+      "tipo": "habitacion",
+      "capacidad": 2,
+      "caracteristicas": {
+        "cantidad_camas": 2,
+        "tipo_bano": "Privado",
+        "balcon": true
+      }
+    },
+    {
+      "id_alojamiento": 2,
+      "nombre": "Cabaña Los Pinos",
+      "tipo": "cabana",
+      "capacidad": 5,
+      "caracteristicas": {
+        "parrilla": true,
+        "cocina": true,
+        "cantidad_habitaciones": 2,
+        "tipo_calefaccion": "Gas"
+      }
+    },
+    {
+      "id_alojamiento": 3,
+      "nombre": "Departamento 4B",
+      "tipo": "departamento",
+      "capacidad": 4,
+      "caracteristicas": {
+        "cochera": true,
+        "piso": 4,
+        "ascensor": true,
+        "servicios": [
+          "WiFi",
+          "TV",
+          "Aire acondicionado"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "inspecciones": [
+    {
+      "id_inspeccion": 1,
+      "id_reserva": 101,
+      "id_alojamiento": 1,
+      "fecha": "2026-10-03T10:30:00",
+      "estado_limpieza": "Bueno",
+      "observaciones": "El alojamiento fue entregado en buenas condiciones.",
+      "elementos_danados": [
+        {
+          "elemento": "Vaso",
+          "cantidad": 1,
+          "observacion": "Roto"
+        }
+      ],
+      "fotografias": [
+        "foto_001.jpg",
+        "foto_002.jpg"
+      ]
+    },
+    {
+      "id_inspeccion": 2,
+      "id_reserva": 102,
+      "id_alojamiento": 2,
+      "fecha": "2026-10-04T11:15:00",
+      "estado_limpieza": "Regular",
+      "observaciones": "Se encontró suciedad en la parrilla.",
+      "elementos_danados": [
+        {
+          "elemento": "Silla",
+          "cantidad": 1,
+          "observacion": "Pata rota"
+        },
+        {
+          "elemento": "Lámpara",
+          "cantidad": 1,
+          "observacion": "No funciona"
+        }
+      ],
+      "fotografias": [
+        "foto_003.jpg"
+      ]
+    }
+  ]
+}
