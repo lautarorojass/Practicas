@@ -1,0 +1,62 @@
+[
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174000",
+    "nombre_visible": "Juan P.",
+    "sucursal_id": 1,
+    "ultimo_acceso": "2026-10-22T11:02:00Z",
+    "ultimo_canal": "web",
+    "dispositivo": "desktop",
+    "preferencias_cache": {
+      "tema": "oscuro",
+      "idioma": "es"
+    }
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174001",
+    "nombre_visible": "María G.",
+    "sucursal_id": 2,
+    "ultimo_acceso": "2026-10-22T12:15:00Z",
+    "ultimo_canal": "mobile",
+    "dispositivo": "android",
+    "preferencias_cache": {
+      "tema": "claro",
+      "idioma": "en"
+    }
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174002",
+    "nombre_visible": "Carlos R.",
+    "sucursal_id": 1,
+    "ultimo_acceso": "2026-10-22T09:05:00Z",
+    "ultimo_canal": "web",
+    "dispositivo": "desktop",
+    "preferencias_cache": {
+      "tema": "oscuro",
+      "idioma": "es"
+    }
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174003",
+    "nombre_visible": "Lucía F.",
+    "sucursal_id": 3,
+    "ultimo_acceso": "2026-10-22T11:00:00Z",
+    "ultimo_canal": "mobile",
+    "dispositivo": "ios",
+    "preferencias_cache": {
+      "tema": "claro",
+      "idioma": "es"
+    }
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174004",
+    "nombre_visible": "Martín L.",
+    "sucursal_id": 4,
+    "ultimo_acceso": "2026-10-22T11:30:00Z",
+    "ultimo_canal": "web",
+    "dispositivo": "desktop",
+    "preferencias_cache": {
+      "tema": "oscuro",
+      "idioma": "es"
+    }
+  }
+]

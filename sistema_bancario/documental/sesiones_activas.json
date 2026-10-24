@@ -1,0 +1,46 @@
+[
+  {
+    "sesion_id": "5c2a9e10-7b44-4f0e-8f6a-1d2c3b4a5001",
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174000",
+    "iniciada_en": "2026-10-22T10:32:00Z",
+    "ultima_actividad": "2026-10-22T11:02:00Z",
+    "expira_en": "2026-10-22T11:32:00Z",
+    "dispositivo": "desktop",
+    "canal": "web",
+    "ip_hash": "sha256:3a7f9c1b2e4d5f60718293a4b5c6d7e8",
+    "estado": "activa"
+  },
+  {
+    "sesion_id": "5c2a9e10-7b44-4f0e-8f6a-1d2c3b4a5002",
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174001",
+    "iniciada_en": "2026-10-22T11:45:00Z",
+    "ultima_actividad": "2026-10-22T12:15:00Z",
+    "expira_en": "2026-10-22T12:45:00Z",
+    "dispositivo": "android",
+    "canal": "mobile",
+    "ip_hash": "sha256:9b1d2f3a4c5e6d708192a3b4c5d6e7f8",
+    "estado": "activa"
+  },
+  {
+    "sesion_id": "5c2a9e10-7b44-4f0e-8f6a-1d2c3b4a5003",
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174003",
+    "iniciada_en": "2026-10-22T10:40:00Z",
+    "ultima_actividad": "2026-10-22T11:00:00Z",
+    "expira_en": "2026-10-22T11:30:00Z",
+    "dispositivo": "ios",
+    "canal": "mobile",
+    "ip_hash": "sha256:1e2d3c4b5a69788796a5b4c3d2e1f001",
+    "estado": "activa"
+  },
+  {
+    "sesion_id": "5c2a9e10-7b44-4f0e-8f6a-1d2c3b4a5004",
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174004",
+    "iniciada_en": "2026-10-22T11:20:00Z",
+    "ultima_actividad": "2026-10-22T11:30:00Z",
+    "expira_en": "2026-10-22T12:00:00Z",
+    "dispositivo": "desktop",
+    "canal": "web",
+    "ip_hash": "sha256:7f6e5d4c3b2a19080716253443526170",
+    "estado": "activa"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174000",
+    "preferencias": {
+      "tema": "oscuro",
+      "idioma": "es",
+      "notificaciones": {
+        "email": true,
+        "sms": false,
+        "push": true
+      },
+      "formato_moneda": "ARS",
+      "zona_horaria": "America/Argentina/Buenos_Aires",
+      "accesibilidad": {
+        "texto_grande": false,
+        "alto_contraste": false
+      }
+    },
+    "actualizado_en": "2026-10-21T18:32:00Z"
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174001",
+    "preferencias": {
+      "tema": "claro",
+      "idioma": "en",
+      "notificaciones": {
+        "email": false,
+        "sms": true,
+        "push": true
+      },
+      "formato_moneda": "USD",
+      "zona_horaria": "America/Argentina/Buenos_Aires",
+      "accesibilidad": {
+        "texto_grande": true,
+        "alto_contraste": false
+      }
+    },
+    "actualizado_en": "2026-10-20T14:10:00Z"
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174002",
+    "preferencias": {
+      "tema": "oscuro",
+      "idioma": "es",
+      "notificaciones": {
+        "email": true,
+        "sms": true,
+        "push": false
+      },
+      "formato_moneda": "ARS",
+      "zona_horaria": "America/Argentina/Buenos_Aires",
+      "accesibilidad": {
+        "texto_grande": false,
+        "alto_contraste": true
+      }
+    },
+    "actualizado_en": "2026-10-22T09:05:00Z"
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174003",
+    "preferencias": {
+      "tema": "claro",
+      "idioma": "es",
+      "notificaciones": {
+        "email": true,
+        "sms": false,
+        "push": true
+      },
+      "formato_moneda": "ARS",
+      "zona_horaria": "America/Argentina/Cordoba",
+      "accesibilidad": {
+        "texto_grande": false,
+        "alto_contraste": false
+      }
+    },
+    "actualizado_en": "2026-10-22T11:02:00Z"
+  }
+]
