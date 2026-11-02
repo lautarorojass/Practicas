@@ -1,0 +1,39 @@
+{
+  "name": "dev-utils-lauta-2026",
+  "version": "1.0.1",
+  "description": "Libreria de utilidades JavaScript: strings, validadores, numeros y fechas.",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "type": "module",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "utils",
+    "utilidades",
+    "strings",
+    "validators",
+    "javascript",
+    "libreria"
+  ],
+  "author": "Lautaro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lautaro/dev-utils-lauta-2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lautaro/dev-utils-lauta-2026/issues"
+  },
+  "homepage": "https://github.com/lautaro/dev-utils-lauta-2026#readme"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "prueba-libreria",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba que instala dev-utils-lauta-2026 desde una ruta local.",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dev-utils-lauta-2026": "file:../dev-utils"
+  }
+}
